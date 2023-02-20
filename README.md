@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timoteogithub
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning lua and thyme
+- 🌱 I’m currently learning lua and python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me i dont know
 
